@@ -9,3 +9,4 @@ leetcode解题
 |3|[lengthOfLongestSubstring](src/go/lengthOfLongestSubstring.go)
 |4|[findMedianSortedArrays](src/go/findMedianSortedArrays.go)
 |5|[longestPalindrome](src/go/longestPalindrome.go)
+|6|[convert](src/go/convert.go)
