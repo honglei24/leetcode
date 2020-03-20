@@ -11,3 +11,4 @@ leetcode解题
 |5|[longestPalindrome](src/go/longestPalindrome.go)
 |6|[convert](src/go/convert.go)
 |7|[reverse](src/go/reverse.go)
+|7|[myAtoi](src/go/myAtoi.go)
