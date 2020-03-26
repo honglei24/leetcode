@@ -17,3 +17,4 @@ leetcode解题
 |11|[maxArea](src/go/maxArea.go)
 |12|[intToRoman](src/go/intToRoman.go)
 |13|[romanToInt](src/go/romanToInt.go)
+|14|[longestCommonPrefix](src/go/longestCommonPrefix.go)
