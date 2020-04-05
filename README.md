@@ -23,3 +23,4 @@ leetcode解题
 |17|[letterCombinations](src/go/letterCombinations.go)
 |18|[fourSum](src/go/fourSum.go)
 |19|[removeNthFromEnd](src/go/removeNthFromEnd.go)
+|20|[isValid](src/go/isValid.go)
