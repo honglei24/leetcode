@@ -34,3 +34,31 @@ func isValid(s string) bool {
 	}
 	return len(stack) == 0
 }
+
+
+func isValid(s string) bool {
+	length := len(s)
+	if length == 0 {
+		return true
+	}
+
+	m := map[byte]byte{
+		')': '(',
+		']': '[',
+		'}': '{',
+	}
+	var stack []byte
+	for _, value := range s {
+		ls := len(stack)
+		if ls > 0 {
+			if v, ok := m[byte(value)]; ok {
+				if stack[ls-1] == v {
+					stack = stack[:ls-1]
+					continue
+				}
+			}
+		}
+		stack = append(stack, byte(value))
+	}
+	return len(stack) == 0
+}
