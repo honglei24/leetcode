@@ -24,3 +24,5 @@ leetcode解题
 |18|[fourSum](src/go/fourSum.go)
 |19|[removeNthFromEnd](src/go/removeNthFromEnd.go)
 |20|[isValid](src/go/isValid.go)
+|21|[mergeTwoLists](src/go/mergeTwoLists.go)
+|22|[generateParenthesis](src/go/generateParenthesis.go)
