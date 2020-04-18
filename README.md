@@ -26,3 +26,4 @@ leetcode解题
 |20|[isValid](src/go/isValid.go)
 |21|[mergeTwoLists](src/go/mergeTwoLists.go)
 |22|[generateParenthesis](src/go/generateParenthesis.go)
+|23|[mergeKLists](src/go/mergeKLists.go)
