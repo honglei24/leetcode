@@ -27,3 +27,4 @@ leetcode解题
 |21|[mergeTwoLists](src/go/mergeTwoLists.go)
 |22|[generateParenthesis](src/go/generateParenthesis.go)
 |23|[mergeKLists](src/go/mergeKLists.go)
+|24|[swapPairs](src/go/swapPairs.go)
