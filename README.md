@@ -30,3 +30,4 @@ leetcode解题
 |24|[两两交换链表中的节点](src/go/swapPairs.go)
 |25|[K 个一组翻转链表](src/go/reverseKGroup.go)
 |26|[删除排序数组中的重复项](src/go/removeDuplicates.go)
+|27|[移除元素](src/go/removeElement.go)
