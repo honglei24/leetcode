@@ -1,4 +1,4 @@
-package main
+//package strStr
 
 func strStr(haystack string, needle string) int {
 	L := len(needle)
