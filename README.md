@@ -32,4 +32,5 @@ leetcode解题
 |26|[删除排序数组中的重复项](src/go/removeDuplicates.go)
 |27|[移除元素](src/go/removeElement.go)
 |28|[实现 strStr()](src/go/strStr.go)
-|29|[两数相除  ](src/go/divide.go)
+|29|[两数相除](src/go/divide.go)
+|30|[串联所有单词的子串](src/go/findSubstring.go)
