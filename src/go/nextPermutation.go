@@ -1,4 +1,4 @@
-package main
+//package main
 
 func nextPermutation(nums []int) {
 	length := len(nums)

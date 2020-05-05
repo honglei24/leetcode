@@ -35,3 +35,4 @@ leetcode解题
 |29|[两数相除](src/go/divide.go)
 |30|[串联所有单词的子串](src/go/findSubstring.go)
 |31|[下一个排列](src/go/nextPermutation.go)
+|32|[最长有效括号](src/go/longestValidParentheses.go)
