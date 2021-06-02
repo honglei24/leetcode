@@ -1,3 +1,5 @@
+package src
+
 func convert(s string, numRows int) string {
 	ret := ""
 	if s == "" || numRows < 1 {

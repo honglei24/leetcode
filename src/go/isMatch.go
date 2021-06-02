@@ -1,3 +1,5 @@
+package src
+
 func isMatch(s string, p string) bool {
 	if p == "" {
 		return s == ""

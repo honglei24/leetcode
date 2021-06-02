@@ -1,3 +1,5 @@
+package src
+
 func twoSum(nums []int, target int) []int {
 	numMap := make(map[int]int)
 	for index, num := range nums {

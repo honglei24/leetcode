@@ -1,3 +1,5 @@
+package src
+
 //package main
 
 func nextPermutation(nums []int) {

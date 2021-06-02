@@ -1,3 +1,5 @@
+package src
+
 func threeSumClosest(nums []int, target int) int {
 	if nums == nil || len(nums) <= 2 {
 		return 0

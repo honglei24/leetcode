@@ -1,3 +1,5 @@
+package src
+
 func threeSum(nums []int) [][]int {
 	ans := [][]int{}
 	if nums == nil || len(nums) <= 2 {

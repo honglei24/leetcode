@@ -1,3 +1,5 @@
+package src
+
 func lengthOfLongestSubstring(s string) int {
 	max := 0
 	tmp := 0

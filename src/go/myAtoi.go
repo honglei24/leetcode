@@ -1,3 +1,5 @@
+package src
+
 func myAtoi(str string) int {
 	if len(str) == 0 || str == "" {
 		return 0
