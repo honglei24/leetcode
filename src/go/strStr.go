@@ -1,5 +1,3 @@
-package src
-
 //package strStr
 
 func strStr(haystack string, needle string) int {

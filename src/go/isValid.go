@@ -1,5 +1,3 @@
-package src
-
 func isValid(s string) bool {
 	length := len(s)
 	if length == 0 {

@@ -1,5 +1,3 @@
-package src
-
 import "math"
 
 func divide(dividend int, divisor int) int {

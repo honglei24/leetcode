@@ -1,5 +1,3 @@
-package src
-
 //package main
 
 func removeElement(nums []int, val int) int {

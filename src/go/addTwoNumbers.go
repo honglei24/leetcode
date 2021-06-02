@@ -1,5 +1,3 @@
-package src
-
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	ret := &ListNode{Val: 0, Next: nil}
 	l3 := ret

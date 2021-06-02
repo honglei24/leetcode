@@ -1,5 +1,3 @@
-package src
-
 func longestCommonPrefix(strs []string) string {
 	if nil == strs || len(strs) == 0 {
 		return ""

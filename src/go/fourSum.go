@@ -1,5 +1,3 @@
-package src
-
 import "sort"
 
 func fourSum(nums []int, target int) [][]int {

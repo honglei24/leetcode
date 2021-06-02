@@ -1,5 +1,3 @@
-package src
-
 func letterCombinations(digits string) []string {
 	if len(digits) == 0 {
 		return []string{}

@@ -1,5 +1,3 @@
-package src
-
 import "math"
 
 func reverse(x int) int {

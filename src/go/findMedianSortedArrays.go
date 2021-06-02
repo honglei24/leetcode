@@ -1,5 +1,3 @@
-package src
-
 import "math"
 
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {

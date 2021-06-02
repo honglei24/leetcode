@@ -1,5 +1,3 @@
-package src
-
 func generateParenthesis(n int) []string {
 	var ans []string
 	var s []byte

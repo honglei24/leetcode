@@ -1,4 +1,4 @@
-package src
+import "fmt"
 
 func twoSum(nums []int, target int) []int {
 	numMap := make(map[int]int)
@@ -9,4 +9,10 @@ func twoSum(nums []int, target int) []int {
 		numMap[num] = index
 	}
 	return nil
+}
+
+func TestTwoSum(){
+	list := []int {1, 2, 3}
+	ret := twoSum(list, 3)
+	fmt.Println(ret)
 }
